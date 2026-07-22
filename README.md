@@ -1,0 +1,2 @@
+# NutriSnap
+AI Health Platform
